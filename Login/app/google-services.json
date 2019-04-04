@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "556653997540",
+    "firebase_url": "https://coventry-app.firebaseio.com",
+    "project_id": "coventry-app",
+    "storage_bucket": "coventry-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556653997540:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556653997540-18ckib7kpv84qn6joi318cmbu922rcig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDgtgYFYq3eY2vx2UfUQESAKf81lZA1mI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
